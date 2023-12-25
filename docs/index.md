@@ -1,7 +1,18 @@
 # Welcome to your playbook
 
-This playbook is designed to simplify security engineering for distributed teams
+This playbook is designed to simplify getting started with computing systems and business processes. 
 
+Here's an example of an approach to problem solving. 
+
+This playbook has several components - 
+
+[Diagram](./Diagrams/Learning.md) section contains visual diagrams of relationships that you will encounter when using computer systems. 
+
+[Implementing AI](./ImplementingAI/Presentation.md), we discuss the considerations to managing and integrating Machine Learning and AI to improve your organization and protect users privacy. 
+
+Under [Playbooks](./Playbooks/Getting_started.md) you'll find the building blocks and samples to get started with developing a playbook. 
+
+The [Trouble Ticket](./TroubleTickets/Concept.md) explores how to create a trouble ticketing system that builds your site reliability functions, improves customer experience and resolves misconfigurations across the technical stack. 
 
 | **Key Component**       | **Description**                                                                                                              |
 |-------------------------|------------------------------------------------------------------------------------------------------------------------------|
