@@ -118,4 +118,4 @@ The integration of AI into our business processes brings unprecedented opportuni
 
 ## Conclusion
 
-In conclusion, by assigning specific responsibilities to key roles within our organization, we can effectively implement AI governance and enhance security in data science activities. This strategic business plan ensures a comprehensive and collaborative approach to address the challenges associated with AI adoption, providing a solid foundation for responsible and secure business practices.
+Assigning specific responsibilities to key roles within our organization, we can effectively implement AI governance and enhance security in data science activities. This strategic business plan ensures a comprehensive and collaborative approach to address the challenges associated with AI adoption, providing a solid foundation for responsible and secure business practices.
