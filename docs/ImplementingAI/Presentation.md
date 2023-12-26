@@ -1,5 +1,19 @@
 # Business Plan: Implementing AI Governance and Enhancing Security in Data Science Activities
 
+There are other considerations in this section 
+[Accuracy](./Accuracy.md)
+
+[Consent](./Consent.md)
+
+[Data Minimization](./Data%20Minimization.md)
+
+[Fairness](./Fairness.md)
+
+[Limitation and Purpose](./Limitation%20and%20Purpose.md)
+
+[Privacy](./Privacy.md)
+
+[Transparency](./Transparency.md)
 ---
 
 ## Introduction
